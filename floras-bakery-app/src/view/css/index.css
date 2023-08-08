@@ -1,0 +1,12 @@
+@import "./global.css";
+
+body{
+  background-color: #FDE5DB;
+  color: #015314;
+}
+a {
+  font-family: 'Overpass', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p,li,span {
+  font-family: 'Playfair Display', serif;
+}

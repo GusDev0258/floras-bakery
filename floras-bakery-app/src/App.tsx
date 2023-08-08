@@ -1,8 +1,11 @@
 import React from 'react'
+import Header from './view/components/Header'
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+    <Header />
+    </>
   )
 }
 
