@@ -1,7 +1,7 @@
 import React from 'react'
 import { styled } from "styled-components";
 
-import { ReactComponent as Logo } from "../../assets/logo/logo-floras.svg";
+import { Logo } from "../../assets/logo/logo-floras.svg";
 
 
 const StyledHeader = styled.header`
